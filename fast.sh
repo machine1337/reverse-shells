@@ -1,5 +1,5 @@
 #!/bin/bash
-
+#Coded By Machine404 Don't Copy this code without giving me credit!
 NC='\033[0m'
 RED='\033[1;38;5;196m'
 GREEN='\033[1;38;5;040m'
