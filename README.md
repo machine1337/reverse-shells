@@ -20,6 +20,6 @@
     * Thanks To InfoSec Community For Giving Us Amazing Shells
     
 # Author:
-    [Facebook] https://facebook.com/unknownclay
-    [Twitter]  https://twitter.com/unknownclay
-    [Youtube] https://www.youtube.com/channel/UCC_aPnmV_zGfdwktCFE9cPQ
+  1. https://www.facebook.com/pakhack01 
+  2. https://instagram.com/invisibleclay100 
+  3. https://www.youtube.com/channel/UCC_aPnmV_zGfdwktCFE9cPQ 
