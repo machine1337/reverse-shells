@@ -6,6 +6,8 @@
     1. git clone https://github.com/machine1337/reverse-shells
     2. chmod +x fast.sh
     
+# Contact:-
+    Telegram:- https://t.me/machine1337
 # Usage:
     1. ./fast.sh
     2.  Now enter target IP
